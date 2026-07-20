@@ -1,4 +1,4 @@
-# Week {Number}: {Project Title}
+# Week 5: DOM Manipulation
 
 ## Author
 - Name: Jake Gitahi
@@ -18,22 +18,36 @@ The project was completed as part of the IYF Weekend Academy Season 11 Week 5 as
 - GitHub
 
 ## Features
-
+### Mini Project
+- Add new tasks
+- Delete tasks
+- Mark tasks as completed
+- Filter tasks
+- Remaining task counter
+- Clear completed tasks
+- Edit tasks by double clicking
 
 ## How to Run
 1. Clone this repository
-2. Open `index.html` in your browser
-   OR
-   Run `npm install` then `npm start`
+2. Open the project in Visual Studio Code
+3. Open any project folder
+4. Launch `index.html` using Live Server
 
 ## Lessons Learned
-What did you learn while building this project?
+After completing this project I learned how to:
+
+- Select DOM elements efficiently
+- Traverse the DOM tree
+- Dynamically update web pages
+- Create and remove HTML elements
+- Handle user interactions
+- Work with JavaScript events
+- Validate forms
+- Build an interactive application using vanilla JavaScript
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+- Understanding DOM traversal
+- Managing event delegation
+- Updating the interface after every user action
+- Keeping the JavaScript code organized
 
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
-## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
